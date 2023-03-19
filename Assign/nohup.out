@@ -1,0 +1,19 @@
+readNEnode finish
+round 1 begin
+R_count = 1442538617
+R = 2105.19
+MergeTime: 27973.6 s
+update begin
+BTotal: 13298940
+
+9366734
+UpdateTime: 16965.3 s
+updated done
+id done
+node done
+round 2 begin
+R_count = 282498120
+R = 412.268
+MergeTime: 13206.1 s
+update begin
+BTotal: 3852282
